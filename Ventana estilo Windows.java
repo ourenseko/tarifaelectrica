@@ -23,3 +23,14 @@ public class main extends javax.swing.JFrame {
         }
          //JOptionPane.showMessageDialog(null, "LookAndFeel: " + UIManager.getLookAndFeel().toString(), "LAF", JOptionPane.PLAIN_MESSAGE);
     }
+
+    
+    
+    https://stackoverflow.com/questions/9541045/how-to-set-jframe-look-and-feel
+    https://docs.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html
+    https://www.developer.com/java/data/working-with-javafx-ui-layouts.html
+    http://www.forosdelweb.com/f45/alternativas-swing-para-escritorio-985066/
+    https://www.pushing-pixels.org/category/substance
+    https://www.pushing-pixels.org/wp-content/uploads/2008/01/lawson-frog.jpg
+    https://perez987.es/cambiar-lookandfeel-en-java/
+    

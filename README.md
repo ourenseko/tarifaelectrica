@@ -1,7 +1,7 @@
 
 Simulador de tarifa eléctrica!
 ---
-Programa para sacar los precios más vajos a un cliente segun sus consumos.
+Programa para sacar los precios más bajos a un cliente segun sus consumos.
 
 
 Preview:

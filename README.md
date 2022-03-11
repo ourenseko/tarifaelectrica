@@ -24,3 +24,7 @@ Notas:
 -Estudiar el uso del .csv que se puede conseguir en la web de la tarifa empresa contratada.
 
 ** Se ha descubierto una web que mejora esta aplicación usando el .csv que contiene nuestros consumos anuales y puede descargar en la empresa contratante **
+
+-https://comparador.cnmc.gob.es/facturaluz/inicio/
+
+

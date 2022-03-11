@@ -21,9 +21,8 @@ Notas:
 
 -Estudiar el código para guardar los datos ingresados en un base de datos creando tablas de empresas.
 
--Estudiar el uso del .csv que se puede conseguir en la web de la tarifa empresa contratada.
 
-** Se ha descubierto una web que mejora esta aplicación usando el .csv que contiene nuestros consumos anuales y puede descargar en la empresa contratante **
+** Se ha descubierto una web que mejora esta aplicación usando el .csv que contiene nuestros consumos anuales **
 
 -https://comparador.cnmc.gob.es/facturaluz/inicio/
 

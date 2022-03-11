@@ -9,6 +9,8 @@ Preview:
 
 Errores:
 
+-La ventana no se da visto completa en una pantalla estandar de ordenador 15"
+
 -Renombrar todos las etiquetas, hacer los calculos y mostrarlos
 
 -Estudiar el código para sacar un PDF

@@ -22,6 +22,7 @@ Notas:
 -Estudiar el código para guardar los datos ingresados en un base de datos creando tablas de empresas.
 
 
+
 ** Se ha descubierto una web que mejora esta aplicación usando el .csv que contiene nuestros consumos anuales **
 
 -https://comparador.cnmc.gob.es/facturaluz/inicio/

@@ -14,3 +14,5 @@ Errores:
 -Renombrar todos las etiquetas, hacer los calculos y mostrarlos
 
 -Estudiar el código para sacar un PDF
+
+-Estudiar el código para poner un enlace a los precios de mercado.

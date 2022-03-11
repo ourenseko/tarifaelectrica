@@ -9,6 +9,6 @@ Preview:
 
 Errores:
 
--Renombrar todos las etiquetas, hacer los calculos y mostralos
+-Renombrar todos las etiquetas, hacer los calculos y mostrarlos
 
 -Estudiar el código para sacar un PDF

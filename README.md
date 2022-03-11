@@ -23,7 +23,7 @@ Notas:
 
 
 
-** Se ha descubierto una web que mejora los fines que perseguia esta aplicación, esta usa el .csv que contiene nuestros consumos anuales y nos da una tarifa mejor **
+** Se ha descubierto una web que mejora los fines que perseguía esta aplicación, esta usa el .csv que contiene nuestros consumos anuales y nos da una tarifa mejor **
 
 -https://comparador.cnmc.gob.es/facturaluz/inicio/
 

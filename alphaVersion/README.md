@@ -1,4 +1,4 @@
-1ª Version semifuncional
+1ª Versión semifuncional
 
 Descargar: https://github.com/ourenseko/tarifaelectrica/blob/main/alphaVersion/dist/tarifaElectrica.jar?raw=true
 

@@ -25,7 +25,5 @@ Notas:
 
 ** Se ha descubierto una web que mejora los fines que se perseguían con el desarrollo de esta aplicación, esta usa un .csv descargado de la compañia contratante que contiene nuestros consumos anuales y en base a esto nos da una tarifa mejor **
 
--https://comparador.cnmc.gob.es/facturaluz/inicio/
-
--Falta comprobar si son legales y no meten timotarifa, clausulas, clientelismo o amigismo.
+-https://comparador.cnmc.gob.es/facturaluz/inicio/ (Sin comprobar si son legales y no meten timotarifa, clausulas, clientelismo, etc.)
 
